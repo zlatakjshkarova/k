@@ -1,0 +1,46 @@
+.wrapper {
+    background: url(../img/i.webp);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+
+.wre {
+    height: 250px;
+    width: 250px;
+    border: 1px solid black;
+    background-color: aqua;
+
+}
+
+.eft {
+    border: 1px solid black;
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.qsc {
+    border: 1px solid black;
+    background-color: aqua;
+    height: 250px;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.sdf {
+    border: 1px dashed green;
+    background-color: bisque;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+
+}
+
+.zxc {
+    border: 1px dashed green;
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+}
